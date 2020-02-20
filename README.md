@@ -3,7 +3,9 @@ vehicle license plate recognition
 <img src="https://user-images.githubusercontent.com/42017128/71764235-79fc5a00-2f28-11ea-9427-177215d19937.png">
 
 수행 원리 및 동작
+| Header One | Header Two | Header Three | Header Four | | ---------- | :--------- | :----------: | ----------: | | Default | Left | Center | Right |
 
+출처: https://poorman.tistory.com/352 [poorman]
 문자 이미지 인식은 크게 세 단계이다.
 
 1.  번호판, 문자 영역 추출
