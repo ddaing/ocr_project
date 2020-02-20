@@ -3,9 +3,6 @@ vehicle license plate recognition
 <img src="https://user-images.githubusercontent.com/42017128/71764235-79fc5a00-2f28-11ea-9427-177215d19937.png">
 
 수행 원리 및 동작
-| Header One | Header Two | Header Three | Header Four | 
-| ---------- | :--------- | :----------: | ----------: |
-| Default    | Left       | Center       | Right       |
 
 
 문자 이미지 인식은 크게 세 단계이다.
@@ -29,9 +26,12 @@ vehicle license plate recognition
 
   문자 인식 과정 로딩  | 
   ----|----|----|----
-  이미지 처리과정 시작|가우시안 블러| 이진화|이미지 처리 후 저장
+ || |
    <img src="media/image3.jpg" width="50%" height="50%">  |  <img src="media/image4.jpg" width="50%" height="50%"> |   <img src="media/image5.jpg" width="50%" height="50%"> |   <img src="media/image6.jpg" width="50%" height="50%">
 
+|  이미지 처리과정 시작 | 가우시안 블러 | 이진화 | 이미지 처리 후 저장 | 
+| ---------- | :--------- | :----------: | ----------: |
+| <img src="media/image3.jpg" width="50%" height="50%">     | <img src="media/image4.jpg" width="50%" height="50%">      | <img src="media/image5.jpg" width="50%" height="50%">       |  <img src="media/image6.jpg" width="50%" height="50%">     |
 
 문자 인식 결과                   |                                  
 ----------------------------------|----------------------------------
