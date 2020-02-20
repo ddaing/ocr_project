@@ -23,10 +23,10 @@ vehicle license plate recognition
   <img src="media/image2.jpg" width="50%" height="50%">
   촬영한 사진이 아래쪽 화면에 나타나고 오른쪽 아래 종이비행기 버튼을 터치하면 이미지 처리가 실행됨.
 
-  문자 인식 과정 로딩                                                                                                                                                                                                                  
-  ------------------------------------------------------------------------------------ ----------------------------------------------------------------------- ----------------------------------------------------------------------- -----------------------------------------------------------------------
-  이미지 처리과정 시작                                                                 가우시안 블러                                                           이진화                                                                  이미지 처리 후 저장
-   <img src="media/image3.jpg" width="50%" height="50%">    <img src="media/image4.jpg" width="50%" height="50%">    <img src="media/image5.jpg" width="50%" height="50%">    <img src="media/image6.jpg" width="50%" height="50%">
+  문자 인식 과정 로딩  | 
+  ----|----|----|----
+  이미지 처리과정 시작|가우시안 블러| 이진화|이미지 처리 후 저장
+   <img src="media/image3.jpg" width="50%" height="50%">  |  <img src="media/image4.jpg" width="50%" height="50%"> |   <img src="media/image5.jpg" width="50%" height="50%"> |   <img src="media/image6.jpg" width="50%" height="50%">
 
 
 문자 인식 결과                   |                                  
